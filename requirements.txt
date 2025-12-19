@@ -1,0 +1,14 @@
+streamlit==1.22.0
+python-dotenv==1.0.0
+
+langchain
+langchain-community
+langchain-groq
+
+faiss-cpu
+unstructured
+python-magic==0.4.27
+libmagic==1.0
+
+sentence-transformers==2.2.2
+torch
